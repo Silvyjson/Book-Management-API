@@ -8,7 +8,7 @@ export const Documentation = `
 </div>
 
 <div style="margin-bottom: 40px;">
-    <b>ENDPOINT_URL: https://book-management-backend.onrender.com</b>
+    <b>ENDPOINT_URL: https://book-management-api-qkeh.onrender.com</b>
 </div>
 
 <div style="margin-bottom: 40px;">
